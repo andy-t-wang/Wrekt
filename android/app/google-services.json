@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "242244260290",
+    "firebase_url": "https://gooned-14036.firebaseio.com",
+    "project_id": "gooned-14036",
+    "storage_bucket": "gooned-14036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242244260290:android:7e5480774264477648c65b",
+        "android_client_info": {
+          "package_name": "com.getwrekt.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242244260290-okjt70lgkkgvjtjocrg149v2hqhamoh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChI6fbL1BURXNc4XInK0IN55wocH7wPhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242244260290-okjt70lgkkgvjtjocrg149v2hqhamoh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "242244260290-0onapvjmklrh25am9mo0g89e2n8ghqel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
